@@ -1,0 +1,24 @@
+{
+  "name": "random-str-msgdu",
+  "version": "1.0.0",
+  "description": "Genreate a random string message",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/duvg/random-str-msgdu.git"
+  },
+  "keywords": ["node", "javascript"],
+  "author": "Duviel Garcia <duviel7@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/duvg/random-str-msgdu/issues"
+  },
+  "homepage": "https://github.com/duvg/random-str-msgdu#readme",
+  "bin": {
+    "random-str-msgdu": "./bin/global.js"
+  },
+  "preferGlobal": true
+}
